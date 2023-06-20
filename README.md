@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- [Repo URL]()
-- [Live site URL]()
+- [Repo URL](https://github.com/Ajayfrizzy/results-summary-component.git)
+- [Live site URL](https://ajayfrizzy.github.io/results-summary-component/)
 
 ## My process
 
